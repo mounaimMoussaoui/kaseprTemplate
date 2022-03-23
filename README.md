@@ -1,2 +1,2 @@
 # kaseprTemplate
-this template creating wiht html and css , js
+this template creating with html and css , js
